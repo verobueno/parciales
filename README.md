@@ -1,2 +1,2 @@
 # parciales
-carpeta que contiene los parciales
+Repositorio que contiene los parciales
